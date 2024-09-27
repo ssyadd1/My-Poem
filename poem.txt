@@ -5,3 +5,5 @@ Blue
 White
 Yellow
 These are the colors of Philippines Flag.
+
+The shape of Philippines Flag the color yellow is star.
